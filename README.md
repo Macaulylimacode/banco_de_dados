@@ -12,35 +12,17 @@ Projeto de criação de Banco de dados.
 # Tecnologias utilizadas
 ## Linguagem
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-## Bibliotecas
-• Flask – pip install flask
-
-• Socketio – pip install python-socketio / pip install flask-socketio
-
-• Simple Websocket – pip install simple-websocket 
-
-### Caso queira se aprofundar nas bibliotecas
-• Flask - https://flask.palletsprojects.com/en/2.3.x/
-
-• Flask no Visual Studio Code - https://code.visualstudio.com/docs/python/tutorial-flask
-
-• Socketio - https://socket.io/pt-br/docs/v4/
+![my](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## IDE
 
-![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![my](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Como executar o projeto
 
 ```bash
 # clonar repositório
-git clone https://github.com/Macaulylimacode/dev_python/blob/master/Python%20DEV.py
+git clone https://github.com/Macaulylimacode/banco_de_dados/blob/master/banco.sql
 
 # entrar na pasta do projeto
 cd dev_python
